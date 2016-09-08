@@ -19,6 +19,10 @@ public class MYFirstJavaApp {
         // TODO code application logic here
         System.out.println("This is my first Java App");
         System.out.println("Still missing Build.xml");
+        int myNumber = 300373;
+        int dob;
+        System.in.read(dob);
+        
         
     }
     
