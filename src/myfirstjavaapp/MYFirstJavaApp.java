@@ -21,7 +21,7 @@ public class MYFirstJavaApp {
         System.out.println("Still missing Build.xml");
         int myNumber = 30037;
         int dob;
-        //System.in.read(dob);
+        System.in.read(dob);
         
         
     }
